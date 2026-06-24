@@ -18,11 +18,12 @@ img {
   padding: 35px 30px;
   margin: 30px auto 0;
   border-radius: 20px;
-  color: #b75252;
+  color: #514444;
   background: linear-gradient(120deg, #00feba, #5b548a);
 }
 .weather-card .search {
   display: flex;
+
   justify-conntent: space-between;
   align-items: center;
   width: 100%;
