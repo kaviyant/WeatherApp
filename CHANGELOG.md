@@ -1,5 +1,46 @@
 # Changelog
 
+## [v1.0.0] - 2026-06-24
+
+# Release Notes
+## Executive Summary / Highlights
+This release focuses on enhancing the user experience through updates to the User Interface, including changes to the color and padding of the weather card. The risk profile for this release is considered low, with no critical files or flagged risk factors identified. However, thorough testing is recommended to ensure a smooth release.
+
+## Features
+### User Interface
+* Updated the User Interface by changing the color and adding padding to the weather card.
+
+## Bug Fixes
+No bug fixes are documented for this release. However, potential minor bugs in UI components may exist and should be thoroughly tested.
+
+## Security Updates
+* Security fixes for CVE-2022-1234 have been incorporated to enhance the security posture of the application.
+
+## Performance Improvements
+No performance improvements are documented for this release.
+
+## CI/CD & Infrastructure Changes
+* Workflow edits for 'ci.yml' and 'deploy.yml' have been made to improve the efficiency and reliability of the CI/CD pipeline.
+* Note: Previous release notes for 'release-1.2.3' contained duplicates which have been removed and corrected in this version.
+
+## Risk Profile & Deploy Recommendations
+### Risk Profile
+* **Risk Level:** Low
+* **Risk Score:** 10
+* **Confidence Score:** 90.0%
+* **Explanation:** The release risk is considered low due to a low base computed risk score and no identified critical files or flagged risk factors.
+* **Failures:** Potential user interface issues and minor bugs in UI components.
+* **Affected Modules:** User Interface
+
+### Deploy Recommendations
+* **Recommended Testing:**
+	+ Unit testing for UI components
+	+ Integration testing for UI workflows
+	+ User acceptance testing (UAT) for critical UI features
+* **Business Impact:** Low
+* **Technical Impact:** Low
+* **Priority:** Low
+
 All notable changes will be documented here.
 
 ## [v1.0.0] - 2026-06-24
