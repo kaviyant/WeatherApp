@@ -19,7 +19,7 @@ img {
   margin: 30px auto 0;
   border-radius: 20px;
   color: #110101;
-  background: linear-gradient(120deg, #25261f, #706c88);
+  background: linear-gradient(120deg, #25261f, #342e53);
 }
 .weather-card .search {
   display: flex;
