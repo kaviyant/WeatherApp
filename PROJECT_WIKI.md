@@ -3,4 +3,4 @@
 Welcome to the ReleaseGenAI Knowledge Base.
 
 ## Release Pages
-- [Miscellaneous Module Update and General System Enhancements](./docs/wiki/miscellaneous-module-update-and-general-system-enhancements.md) - To maintain system health, introduce foundational files for future development, and address identified security vulnerabilities to enhance overall platform robustness.
+- [User Interface Module Update](./docs/wiki/user-interface-module-update.md) - Enhance visual appeal and user experience
