@@ -3,4 +3,4 @@
 Welcome to the ReleaseGenAI Knowledge Base.
 
 ## Release Pages
-- [User Interface Module Update](./docs/wiki/user-interface-module-update.md) - Enhance visual appeal and user experience
+- [Release v1.0.0 Wiki Page](./docs/wiki/release-v1.0.0-wiki-page.md) - To provide a stable initial release
